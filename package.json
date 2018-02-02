@@ -1,0 +1,27 @@
+{
+  "name": "4ears_bot",
+  "version": "1.0.0",
+  "description": "Quadra Ears Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-NiNE/4ears_bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "eris"
+  ],
+  "author": "Team. NiNE",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Team-NiNE/4ears_bot/issues"
+  },
+  "homepage": "https://github.com/Team-NiNE/4ears_bot#readme",
+  "dependencies": {
+    "eris": "^0.8.3"
+  }
+}
