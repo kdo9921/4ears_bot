@@ -1,5 +1,7 @@
 {
 	"chat": {
-		"pong": "Pong!"
+		"pong": "Pong!",
+		"uptime": "Uptime: ",
+		"error": "Something went"
 	}
 }
