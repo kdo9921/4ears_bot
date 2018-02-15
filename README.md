@@ -31,5 +31,5 @@ Alpha Build : 0.0.0
      - [ ] 거점전 시설 알람기능
  
 # 라이센스
- - 본 레포지토리는 [네스봇](https://github.com/small-sunshines/gjmoribot)을 상당수 포팅하였으며, 이는 [MIT License](https://choosealicense.com/licenses/mit/)에 의해 배포되는 레포지토리입니다.
+ - 본 레포지토리는 [네스봇](https://github.com/Nesffer/ness-telegram-bot)을 상당수 포팅하였으며, 이는 [MIT License](https://choosealicense.com/licenses/mit/)에 의해 배포되는 레포지토리입니다.
  - 본 레포지토리는 [사잽봇](https://github.com/Katinor/quadra_dialog)을 상당수 포팅하였으며, 해당 레포지토리의 소유자의 사용허가가 있었습니다.
